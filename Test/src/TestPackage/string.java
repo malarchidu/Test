@@ -16,6 +16,7 @@ public class string {
 		System.out.println(s1.equals(s2));
 		System.out.println(s1==s2);
 		System.out.println("hello");
+		System.out.println("Hello fairfield");
 
 	}
 
